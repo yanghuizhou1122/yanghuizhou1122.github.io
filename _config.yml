@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Huizhou (Jack) Yang"
   avatar           : "profile_HY.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral Fellow\n\
+                      University of Denver"
   location         : "Denver"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/yanghuizhou1122"
+  github           : "yanghuizhou1122"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/JACK_HY_YANG"
+  twitter          : "JACK_HY_YANG"
   vine             :
   weibo            :
   xing             :
