@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Huizhou (Jack) Yang"
   avatar           : "profile_HY.png"
-  bio              : "Postdoctoral Fellow"
+  bio              : "Postdoctoral Fellow at the Center for Orthopaedic Biomechanics, University of Denver"
   location         : "Denver"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Q2jrgtoAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "huizhou.yang@du.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
