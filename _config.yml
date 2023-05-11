@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Dr. Huizhou Yang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Huizhou Yang"
+description              : &description "Postdoctoral Fellow at University of Denver"
 url                      : https://yanghuizhou1122.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yanghuizhou1122/yanghuizhou1122.github.io"
@@ -83,8 +83,8 @@ author:
   name             : "Huizhou (Jack) Yang"
   avatar           : "profile_HY.png"
   bio              : |-
-   "Postdoctoral Fellow"
-   "University of Denver"
+   Postdoctoral Fellow
+   University of Denver
   location         : "Denver"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -104,7 +104,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "in/huizhou-yang-184077234"
+  linkedin         : "huizhou-yang-184077234"
   orcid            : "https://orcid.org/0000-0002-7192-8274"
   pinterest        :
   soundcloud       :
