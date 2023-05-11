@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Huizhou Yang"
 title_separator          : "-"
 name                     : &name "Huizhou Yang"
-description              : &description "Postdoctoral Fellow at University of Denver"
+description              : &description "A postdoctoral fellow at University of Denver"
 url                      : https://yanghuizhou1122.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yanghuizhou1122/yanghuizhou1122.github.io"
@@ -84,6 +84,7 @@ author:
   avatar           : "profile_HY.png"
   bio              : |-
    Postdoctoral Fellow
+   
    University of Denver
   location         : "Denver"
   employer         :
