@@ -1,6 +1,6 @@
 ---
 title: "Impact of implant alignment, bone material, and implant design factors on the primary fixation stability in cementless unicompartmental knee arthroplasty"
-collection: publications
+collection: publications_future
 permalink: /publication_future/Paper_Uni_micromotion
 excerpt: 'This paper is focused on investigating the impact of common factors on the implant stability in cementless UKA. Click the paper title to access the full abstract.'
 date:
