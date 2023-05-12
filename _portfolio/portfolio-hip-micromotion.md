@@ -1,6 +1,6 @@
 ---
 title: "Fixation stability in cementless hip revision arthroplasty"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/projects-Uni-micromotion/cover.png'>"
+excerpt: "This study aimed to develop an experimental-computational framework for evaluating the fixation stability of novel cementless hip revision implants during activities of daily living. <br/><img src='/images/projects-Uni-micromotion/cover.png'>"
 collection: portfolio
 ---
 ### Abstract
