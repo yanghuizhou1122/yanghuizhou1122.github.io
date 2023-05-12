@@ -15,7 +15,4 @@ author_profile: true
 {% endfor %}
 
 ## Working Paper
-{% for post in site.publications_future reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
+- Impact of implant alignment, bone material, and implant design factors on the primary fixation stability in cementless unicompartmental knee arthroplasty<br>**Huizhou Yang**, Daniele Marras, Chadd W. Clary, Paul J. Rullkoetter<br>[*Click here to see this project.*](https://yanghuizhou1122.github.io//portfolio/portfolio-Uni-micromotion/)
