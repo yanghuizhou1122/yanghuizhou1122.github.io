@@ -20,7 +20,7 @@ News and Updates
 - **Oct 2022:** One paper published in *Journal of the Mechanical Behavior of Biomedical Materials*.
 - **Sep 2022:** One podium presentation at the 2022 ISTA Annual Meeting, Maui, US.
 - **Apr 2022:** One paper published in *Journal of Orthopaedic Research*.
-- **Dec 2021:** Postdoctoral Fellow at [Center for Orthopaedic Biomechancis](https://ritchieschool.du.edu/research-innovation/biomedical-devices/center-orthopaedic-biomechanics), [University of Denver](https://www.du.edu/).
-- **Nov 2021:** Congrats! PhD graduated from Univeristy of Denver.
+- **Dec 2021:** Postdoctoral Fellow at [Center for Orthopaedic Biomechanics](https://ritchieschool.du.edu/research-innovation/biomedical-devices/center-orthopaedic-biomechanics), [University of Denver](https://www.du.edu/).
+- **Nov 2021:** Congrats! PhD graduated from the Univeristy of Denver.
 - **Jan 2021:** One paper published in *Medical Engineering & Physics*.
 - **Feb 2020:** One podium presentation at the 2020 ORS Annual Meeting, Phoenix, US.
