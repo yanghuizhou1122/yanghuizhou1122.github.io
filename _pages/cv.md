@@ -31,24 +31,20 @@ Research Experience
   * Simulate post-operative lower limb activities and study the influence of implants on joint related parameters
   * Test implant designs and prototypes under physiological conditions and give suggestions for improvement
   * Answer surgeons’ concerns by testing potential surgical plans and technique concepts
-  (*Location: Center for Orthopaedic Biomechanics, Supervisor: Paul Rullkoetter*)
 
 * Implant stability after knee arthroplasty
   * Develop experimental-computational frameworks for evaluating TKA/UKA implant stability
   * Develop UKA models that include bones, implants, cartilages, and soft-tissues for evaluating implant designs
   * Investigate the impact of TKA factors on bone remodeling and cementless implant-bone micromotion
   * Compare the implant stability between novel cementless TKA/UKA designs
-  (*Location: Center for Orthopaedic Biomechanics, Supervisor: Paul Rullkoetter*)
 
 * Implant stability after hip arthroplasty
   * Develop experimental-computational frameworks for evaluating hip implant stability
   * Compare the implant stability and bone strain energy density between novel designs
-  (*Location: Center for Orthopaedic Biomechanics, Supervisor: Paul Rullkoetter*)
 
 * Thermal Elastic Instabilities in Automotive System
   * Researched in Thermal problems in automotive systems
   * Applied simulation software to research TI problems
-  (*Location: University of Denver, Supervisor: Yunbo Yi*)
   
 Skills and Abilitites
 ======
