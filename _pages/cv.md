@@ -8,33 +8,51 @@ redirect_from:
 ---
 
 {% include base_path %}
+[*Click here to view my latest resume*](http://yanghuizhou1122.github.io/files/CV_Jack_2023_May.pdf)
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering, [Shanghai Jiaotong University](https://en.sjtu.edu.cn/), 2013
+* M.S. in Mechanical Engineering, [University of Denver](https://www.du.edu/), 2015
+* Ph.D in Mechanical Engineering, [University of Denver](https://www.du.edu/), 2021
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant (*Sept.2016 - Nov.2021*)
+  * Center for Orthopaedic Biomechanics, University of Denver
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Postdoctoral Fellow (*Dec.2021 - Present*)
+  * Center for Orthopaedic Biomechanics, University of Denver
+
+Research Experience
+======
+* Application of finite element analysis in orthopaedics
+  * Develop and validate computational models for experiment devices, implants, specimens, and human tissues
+  * Simulate post-operative lower limb activities and study the influence of implants on joint related parameters
+  * Test implant designs and prototypes under physiological conditions and give suggestions for improvement
+  * Answer surgeons’ concerns by testing potential surgical plans and technique concepts
+  (*Location: Center for Orthopaedic Biomechanics, Supervisor: Paul Rullkoetter*)
+
+* Implant stability after knee arthroplasty
+  * Develop experimental-computational frameworks for evaluating TKA/UKA implant stability
+  * Develop UKA models that include bones, implants, cartilages, and soft-tissues for evaluating implant designs
+  * Investigate the impact of TKA factors on bone remodeling and cementless implant-bone micromotion
+  * Compare the implant stability between novel cementless TKA/UKA designs
+  (*Location: Center for Orthopaedic Biomechanics, Supervisor: Paul Rullkoetter*)
+
+* Implant stability after hip arthroplasty
+  * Develop experimental-computational frameworks for evaluating hip implant stability
+  * Compare the implant stability and bone strain energy density between novel designs
+  (*Location: Center for Orthopaedic Biomechanics, Supervisor: Paul Rullkoetter*)
+
+* Thermal Elastic Instabilities in Automotive System
+  * Researched in Thermal problems in automotive systems
+  * Applied simulation software to research TI problems
+  (*Location: University of Denver, Supervisor: Yunbo Yi*)
   
-Skills
+Skills and Abilitites
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+ABAQUS, Hypermesh, ScanIP, Python, Matlab, Solidwork, Inkspace, finite element modeling, finite element analysis, statistical analysis
 
 Publications
 ======
@@ -47,13 +65,3 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
