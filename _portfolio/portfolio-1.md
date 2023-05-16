@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Validation of finite element methods in evaluating cementless implant stability after knee/hip arthroplasty"
+excerpt: "This projects aimed to develop and validate experimental-computational frameworks for assessing cementless implant stability after TKA/UKA/THA.<br/><img src='/images/project-1/cover.png'>"
 collection: portfolio
 ---
+### Project description
+Current innovations in cementless implants offer a more long-lasting biological fixation potential. One of the most common reason for revision is aseptic loosening. The primary fixation of cementless implants is crucial to bony ingrowth onto the porous surface of the implant as micromotions exceeding 150μm may inhibit the bone formation. Finite element methods have been commonly used to estimate the implant-bone interface micromotion that cannot be measured experimentally. However, the experimental validation of computatioanl models remains challenging. Finite element modeling is limited by the necessary input and assumptions. Many input parameters, such as interface contact, bone material properties, and soft tissue mechanical properties, are complex and variable in the modeling. Any poorly characterized input would directly influence the accuracy of the resulting output. The struggle in the validation of computational models restrains the extensive uses of these models in clinical practice.This projects aimed to develop and validate experimental-computational frameworks for assessing cementless implant stability after TKA/UKA/THA.
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Once the models are validated, they can be further used for analyses that are difficult or impossible to conduct via experimental methods. For instance, a validated intact knee model may be used to simulate soft tissue injury and quantitatively assess the effect of surgical decisions on patellofemoral mechanics and extensor mechanism efficiency; A validated wear model allows a more time- and cost-efficient investigation of the polyethylene wear under different conditions than physical testing; Validated lower limb models could be further used to evaluate TKA designs and surgical techniques;The AMTI VIVO knee simulator has been modeled and validated to simulate the experimental tests without the impact of experimental errors.
+
+[Click Here](https://yanghuizhou1122.github.io/files/paper1.pdf) to see one of the studies from this project.
