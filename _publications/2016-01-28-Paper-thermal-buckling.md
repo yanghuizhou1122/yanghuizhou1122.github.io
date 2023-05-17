@@ -4,12 +4,10 @@ collection: publications
 permalink: /publication/2016-01-28-Paper-thermal-buckling
 excerpt: 'In this paper, we performed a finite element analysis to investigate the stability boundaries of thermal buckling in automotive clutches'
 date: 2016-01-28
-venue: 'January 28'
+venue: 'Journal of Thermal Stresses'
 paperurl:
 citation:
 ---
-*Journal of Thermal Stresses*
-
 ### Authors
 Jiaxin Zhao, Zhuo Chen, **Huizhou Yang**, Yunbo Yi
 
