@@ -1,6 +1,6 @@
 ---
 title: "Bone remodeling after cemented total knee arthroplasty"
-excerpt: "This project aimed to understand the creitical parameters influencing bone remodeling after cemented TKA.<br/><img src='/images/project-2/cover.png'>"
+excerpt: "This project aimed to understand the creitical parameters influencing bone remodeling after cemented TKA.<br/><img src='/images/project-2/cover-1.png'>"
 collection: portfolio
 ---
 ### Project description
