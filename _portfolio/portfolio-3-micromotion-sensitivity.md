@@ -8,5 +8,5 @@ Micromotion exceeding 150µm at the implant-bone interface may prevent bone form
 
 The [previously validated models] were used to conduct this project. 
 
-###Related publications:
+### Related publications
 [Paper#1](https://yanghuizhou1122.github.io/files/paper3.pdf)<br>[Paper#2](https://yanghuizhou1122.github.io/files/paper4.pdf)

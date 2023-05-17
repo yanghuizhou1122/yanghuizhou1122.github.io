@@ -1,6 +1,6 @@
 ---
 title: "Validation of finite element methods in evaluating cementless implant stability after knee/hip arthroplasty"
-excerpt: "This projects aimed to develop and validate experimental-computational frameworks for assessing cementless implant stability after TKA/UKA/THA.<br/><img src='/images/project-1/cover.png'>"
+excerpt: "This project aimed to develop and validate experimental-computational frameworks for assessing cementless implant stability after TKA/UKA/THA.<br/><img src='/images/project-1/cover.png'>"
 collection: portfolio
 ---
 ### Project description
@@ -8,4 +8,5 @@ Current innovations in cementless implants offer a more long-lasting biological 
 
 Once the models are validated, they can be further used for analyses that are difficult or impossible to conduct via experimental methods. For instance, a validated intact knee model may be used to simulate soft tissue injury and quantitatively assess the effect of surgical decisions on patellofemoral mechanics and extensor mechanism efficiency; A validated wear model allows a more time- and cost-efficient investigation of the polyethylene wear under different conditions than physical testing; Validated lower limb models could be further used to evaluate TKA designs and surgical techniques;The AMTI VIVO knee simulator has been modeled and validated to simulate the experimental tests without the impact of experimental errors.
 
+### Related publications
 [Paper#1](https://yanghuizhou1122.github.io/files/paper1.pdf)<br>[Paper#2](https://yanghuizhou1122.github.io/files/paper4.pdf)
