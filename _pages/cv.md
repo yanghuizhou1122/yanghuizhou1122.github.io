@@ -14,7 +14,7 @@ Education
 ======
 * B.S. in Mechanical Engineering, [Shanghai Jiaotong University](https://en.sjtu.edu.cn/), 2013
 * M.S. in Mechanical Engineering, [University of Denver](https://www.du.edu/), 2015
-* Ph.D in Mechanical Engineering, [University of Denver](https://www.du.edu/), 2021
+* Ph.D. in Mechanical Engineering, [University of Denver](https://www.du.edu/), 2021
 
 Work Experience
 ======
@@ -28,7 +28,7 @@ Research Experience
 ======
 * Application of finite element analysis in orthopaedics
   * Develop and validate computational models for experiment devices, implants, specimens, and human tissues
-  * Simulate post-operative lower limb activities and study the influence of implants on joint related parameters
+  * Simulate post-operative lower limb activities and study the influence of implants on joint-related parameters
   * Test implant designs and prototypes under physiological conditions and give suggestions for improvement
   * Answer surgeons’ concerns by testing potential surgical plans and technique concepts
 
@@ -43,10 +43,10 @@ Research Experience
   * Compare the implant stability and bone strain energy density between novel designs
 
 * Thermal Elastic Instabilities in Automotive System
-  * Researched in Thermal problems in automotive systems
+  * Researched thermal problems in automotive systems
   * Applied simulation software to research TI problems
   
-Skills and Abilitites
+Skills and Abilities
 ======
 ABAQUS, Hypermesh, ScanIP, Python, Matlab, Solidwork, Inkspace, finite element modeling, finite element analysis, statistical analysis
 
