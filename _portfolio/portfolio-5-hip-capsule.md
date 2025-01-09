@@ -1,0 +1,9 @@
+---
+title: "Quantifying Capsule and Local Muscle Contributions via Computational Analysis in Total Hip Arthroplasty"
+excerpt: "This study aimed to develop and calibrate a standardized computational model that integrated both the hip capsule and local muscles to quantify their contributions to hip passive stability following THA.<br/><img src='/images/project-hipcapsule/cover.png'>"
+collection: portfolio
+---
+### Project description
+Dislocation is a leading cause of revision in total hip arthroplasty, accounting for 17.3% of all cases. Hip joint stability in high-risk positions is a dynamic balance of external forces, joint position, and the combination of active and passive contributions from the muscle and ligaments surrounding the hip. Many factors, such as surgical approach, implant positioning, soft tissue balancing, and patient factors may impact this stability, increasing the susceptibility to dislocation. Therefore, understanding the primary contributors to THA stability is essential for assessing dislocation risk and optimizing implant designs, surgical decisions, and strength rehabilitation strategies to mitigate this risk in patients.
+
+Finite element models have been utilized for assessing the capsule’s contribution to joint stability. The calibrated computational models provided valuable insights that typically cannot be obtained via experimental methods. This study aimed to develop and calibrate a standardized computational model that incorporates both the hip capsule and local muscles to identify the primary contributors to hip passive stability in both anterior and posterior dislocation mechanisms following THA. After calibration, the model was utilized to assess the influence of implant alignment on hip stability and to evaluate the synergy between ligaments and muscles in maintaining passive hip stability in high-risk positions.
