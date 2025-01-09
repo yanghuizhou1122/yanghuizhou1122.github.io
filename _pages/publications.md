@@ -15,7 +15,7 @@ author_profile: true
 {% endfor %}
 
 ## Working Paper
-- Impact of implant alignment, bone material, and implant design factors on the primary fixation stability in cementless unicompartmental knee arthroplasty (*preparing for submission to Journal of Engineering in Medicine*)<br>Authors: **Huizhou Yang**, Daniele Marras, Chadd W. Clary, Paul J. Rullkoetter<br>[*Click here to see this project.*](https://yanghuizhou1122.github.io//portfolio/portfolio-3-micromotion-sensitivity/)
+- Biomechanical Insights into Hip Stability: Quantifying Capsule and Local Muscle Contributions via Computational Analysis in Total Hip Arthroplasty (*preparing for submission to Computer Methods in Biomechanics and Biomedical Engineering*)<br>Authors: **Huizhou Yang**, Kathryn Colone, Casey A. Myers, Paul J. Rullkoetter, Chadd W. Clary<br>[*Click here to see this project.*](https://yanghuizhou1122.github.io//portfolio/portfolio-5-hip-capluse-muscle-model/)
 
 - Impact of design factors on implant stability in cementless hip revision arthroplasty: Experimental-computational studies evaluating different implant designs (*still working on it*)<br>Authors: **Huizhou Yang**, William Fugit, Paul J. Rullkoetter, Chadd W. Clary<br>[*Click here to see this project.*](https://yanghuizhou1122.github.io//portfolio/portfolio-4-hip-micromotion/)
 
