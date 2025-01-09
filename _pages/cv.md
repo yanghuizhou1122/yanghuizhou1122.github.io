@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[*Click here to view my latest resume*](http://yanghuizhou1122.github.io/files/CV_Jack_2023_May.pdf)
+[*Click here to view my latest resume*](http://yanghuizhou1122.github.io/files/CV_Jack_2025_Jan.pdf)
 
 Education
 ======
@@ -31,6 +31,10 @@ Research Experience
   * Simulate post-operative lower limb activities and study the influence of implants on joint-related parameters
   * Test implant designs and prototypes under physiological conditions and give suggestions for improvement
   * Answer surgeons’ concerns by testing potential surgical plans and technique concepts
+
+* Hip capsule-muscle contributions to hip joint stability
+  * Develop and calibrate standardized computational models that incorporate both the hip capsule and local muscles to identify the primary contributors to hip passive stability following THA
+  * Investigate the anterior and posterior dislocation mechanism and the impact of stem alignment
 
 * Implant stability after knee arthroplasty
   * Develop experimental-computational frameworks for evaluating TKA/UKA implant stability
