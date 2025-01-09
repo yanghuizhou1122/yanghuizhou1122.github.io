@@ -1,6 +1,6 @@
 ---
 title: "Quantifying Capsule and Local Muscle Contributions via Computational Analysis in Total Hip Arthroplasty"
-excerpt: "This study aimed to develop and calibrate a standardized computational model that integrated both the hip capsule and local muscles to quantify their contributions to hip passive stability following THA.<br/><img src='/images/project-hipcapsule/cover.PNG'>"
+excerpt: "This study aimed to develop and calibrate a standardized computational model that integrated both the hip capsule and local muscles to quantify their contributions to hip passive stability following THA.<br/><img src='/images/project-hipcapsule/cover.png'>"
 collection: portfolio
 ---
 ### Project description
