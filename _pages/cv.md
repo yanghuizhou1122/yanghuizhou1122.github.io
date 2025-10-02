@@ -22,8 +22,7 @@ Award and Honors
 
 Experience
 ======
-* Postdoctoral Fellow (*Dec.2021 - Present*)
-*Center for Orthopaedic Biomechanics, University of Denver, Denver, CO, USA*
+* Postdoctoral Fellow (*Dec. 2021 - Present*)<br>*Center for Orthopaedic Biomechanics, University of Denver, Denver, CO, USA*<br>
   * Lead independent research projects on hip and knee arthroplasty stability, implant fixation, and joint biomechanics
   * Develop and validate finite element models for orthopedic implant evaluation across multiple joint systems
   * Collaborate with industry partners including Highridge Medical and DePuy Synthes on implant design optimization and clinical evaluation
