@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[*Click here to view my latest resume*](http://yanghuizhou1122.github.io/files/CV_Jack_2025_April.pdf)
+[*Click here to view my latest resume*](http://yanghuizhou1122.github.io/files/CV_Jack_2025_Oct.pdf)
 
 Education
 ======
@@ -16,52 +16,42 @@ Education
 * M.S. in Mechanical Engineering, [University of Denver](https://www.du.edu/), 2015
 * Ph.D. in Mechanical Engineering, [University of Denver](https://www.du.edu/), 2021
 
-Work Experience
+Award and Honors
 ======
-* Research Assistant (*Sept.2016 - Nov.2021*)
-  * Center for Orthopaedic Biomechanics, University of Denver
+* Harris Award Finalist, Orthopaedic Research Society, 2025.
 
+Experience
+======
 * Postdoctoral Fellow (*Dec.2021 - Present*)
-  * Center for Orthopaedic Biomechanics, University of Denver
-
-Research Experience
-======
-* Application of finite element analysis in orthopaedics
-  * Develop and validate computational models for experiment devices, implants, specimens, and human tissues
-  * Simulate post-operative lower limb activities and study the influence of implants on joint-related parameters
-  * Test implant designs and prototypes under physiological conditions and give suggestions for improvement
-  * Answer surgeons’ concerns by testing potential surgical plans and technique concepts
-
-* Hip capsule-muscle contributions to hip joint stability
-  * Develop and calibrate standardized computational models that incorporate both the hip capsule and local muscles to identify the primary contributors to hip passive stability following THA
-  * Investigate the anterior and posterior dislocation mechanism and the impact of stem alignment
-
-* Implant stability after knee arthroplasty
-  * Develop experimental-computational frameworks for evaluating TKA/UKA implant stability
-  * Develop UKA models that include bones, implants, cartilages, and soft-tissues for evaluating implant designs
-  * Investigate the impact of TKA factors on bone remodeling and cementless implant-bone micromotion
-  * Compare the implant stability between novel cementless TKA/UKA designs
-
-* Implant stability after hip arthroplasty
-  * Develop experimental-computational frameworks for evaluating hip implant stability
-  * Compare the implant stability and bone strain energy density between novel designs
-
-* Thermal Elastic Instabilities in Automotive System
-  * Researched thermal problems in automotive systems
-  * Applied simulation software to research TI problems
+*Center for Orthopaedic Biomechanics, University of Denver, Denver, CO, USA*
+  * Lead independent research projects on hip and knee arthroplasty stability, implant fixation, and joint biomechanics
+  * Develop and validate finite element models for orthopedic implant evaluation across multiple joint systems
+  * Collaborate with industry partners including Highridge Medical and DePuy Synthes on implant design optimization and clinical evaluation
+  * Investigate bone-implant interface mechanics, micromotion analysis, and primary fixation strategies for cementless implants
+  * Assess capsule-muscle contributions to hip joint stability and dislocation risk after total hip arthroplasty
+  * Evaluate effects of surgical alignment, implant positioning, and design parameters on implant performance
+  * Conduct experimental-computational validation studies integrating cadaveric testing with finite element predictions
+  * Support surgical planning, prototype testing, and design iteration through biomechanical simulation
   
-Skills and Abilities
+Professional Service
 ======
-ABAQUS, Hypermesh, ScanIP, Python, Matlab, Solidwork, Inkspace, finite element modeling, finite element analysis, statistical analysis
+* Abstract Reviewer, Orthopaedic Research Society, 2025.
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+Technical Skills
+======
+* Computational modeling: ABAQUS, HyperMesh, ScanIP
+* CAD/Design: SolidWorks
+* Programming: Python, MATLAB
+* Expertise: Finite element modeling, biomechanical analysis, statistical analysis, medical image segmentation
