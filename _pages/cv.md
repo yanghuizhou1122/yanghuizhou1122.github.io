@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[*Click here to view my latest resume*](http://yanghuizhou1122.github.io/files/CV_Jack_2025_Oct.pdf)
+[*Click here to view my latest resume*](https://yanghuizhou1122.github.io/files/CV_Jack_2026.pdf)
 
 Education
 ======
@@ -18,7 +18,8 @@ Education
 
 Award and Honors
 ======
-* [William H. Harris, MD Award](https://www.ors.org/ors-harris-award/), Orthopaedic Research Society, 2026.
+* [William H. Harris, MD Award](https://www.ors.org/ors-harris-award/) (Sole Recipient), Orthopaedic Research Society, 2026.
+* New Investigator Recognition Award Finalist, Orthopaedic Research Society, 2026.
 
 Experience
 ======
