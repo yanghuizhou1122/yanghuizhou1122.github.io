@@ -18,7 +18,7 @@ Education
 
 Award and Honors
 ======
-* Harris Award Finalist, Orthopaedic Research Society, 2025.
+* [William H. Harris, MD Award](https://www.ors.org/ors-harris-award/), Orthopaedic Research Society, 2026.
 
 Experience
 ======
@@ -34,7 +34,8 @@ Experience
   
 Professional Service
 ======
-* Abstract Reviewer, Orthopaedic Research Society, 2025.
+* Abstract Reviewer, ORS Annual Meeting 2027, Orthopaedic Research Society (2026).
+* Abstract Reviewer, ORS Annual Meeting 2026, Orthopaedic Research Society (2025).
 
 Publications
 ======

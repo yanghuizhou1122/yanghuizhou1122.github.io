@@ -16,11 +16,11 @@ My current projects include **developing and validating computational models** f
 
 Recent News and Updates
 ======
+- **Sep. 2026:** Served as abstract reviewer for ORS Annual Meeting 2027.
+- **Jun. 2026:** One paper published in *Journal of Biomechanics*.
+- **Mar. 2026:** One podium presentation at the 2026 ORS Annual Meeting.
+- **Dec. 2025:** Selected as the recipient of the 2026 [William H. Harris, MD Award](https://www.ors.org/ors-harris-award/).
 - **Sep. 2025:** Served as abstract reviewer for ORS Annual Meeting 2026.
 - **Jul. 2025:** One paper published in *Journal of Orthopaedic Research* (Harris Award Finalist).
 - **Jan. 2025:** One paper published in *Journal of Biomechanical Engineering*.
 - **Sep. 2023:** One podium presentation at the 2023 ISTA Annual Meeting, New York, US.
-- **Feb. 2023:** Two posters presented at the 2023 ORS Annual Meeting, Dallas, US.
-- **Oct. 2022:** One paper published in *Journal of the Mechanical Behavior of Biomedical Materials*.
-- **Sep. 2022:** One podium presentation at the 2022 ISTA Annual Meeting, Maui, US.
-- **Apr. 2022:** One paper published in *Journal of Orthopaedic Research*.
